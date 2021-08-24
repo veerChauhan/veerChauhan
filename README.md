@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @veerChauhan
 - 👀 I’m interested in programming mainly on iOS application development
 - 🌱 I’m currently learning swift and node.js
-- 💞️ I’m looking to collaborate on sswift project
+- 💞️ I’m looking to collaborate on swift project
 - 📫 How to reach me : r.ranjanchn@gmail.com
 
 <!---
