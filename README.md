@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on swift project
 - 📫 How to reach me : r.ranjanchn@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&radical)
