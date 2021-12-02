@@ -31,6 +31,7 @@ veerChauhan/veerChauhan is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+![Veer's Github stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&show_icons=true)
 
 
 
