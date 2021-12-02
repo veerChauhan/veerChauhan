@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on swift project
 - 📫 How to reach me : r.ranjanchn@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact&theme=radical)
 
 
 
