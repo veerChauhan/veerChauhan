@@ -5,7 +5,7 @@
 - 📫 How to reach me : r.ranjanchn@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact)
 
 
 <!---
