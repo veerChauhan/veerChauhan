@@ -8,7 +8,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact&theme=radical&show_icons=true)
 
 
 
