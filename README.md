@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on swift project
 - 📫 How to reach me : r.ranjanchn@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&theme=radical)
+![Veer's Github Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&theme=radical&show_icons=true)
 
 
 
@@ -31,7 +31,6 @@ veerChauhan/veerChauhan is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Veer's Github stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&show_icons=true)
 
 
 
