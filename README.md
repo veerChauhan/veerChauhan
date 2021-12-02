@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @veerChauhan
+- 👋 Hi, I’m @veerChauhan   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&theme=radical)
+
 - 👀 I’m interested in programming mainly on iOS application development
 - 🌱 I’m currently learning swift, node and React.
 - 💞️ I’m looking to collaborate on swift project
@@ -13,9 +14,7 @@ veerChauhan/veerChauhan is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&theme=radical)
 
 
 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veerChauhan)
