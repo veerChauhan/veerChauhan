@@ -41,11 +41,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact&theme=radical&show_icons=true)
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=veerChauhan)
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/veerChauhan?tab=repositories)!
+### Show ❤️ here [repositories](https://github.com/veerChauhan?tab=repositories)!
 
 
 
