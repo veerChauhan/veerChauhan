@@ -27,7 +27,6 @@
 <br/>
 
 
- ## ⚡ Recent GitHub Activity
   <br/>
    <a href="https://github.com/Candida18"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
