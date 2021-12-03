@@ -17,9 +17,7 @@
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/veerChauhan/blob/master/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veerChauhan&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/veerChauhan/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
 
