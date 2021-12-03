@@ -13,7 +13,7 @@
 </p>
 
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=veerChauhan&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia)](https://github.com/veerChauhan)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=veerChauhan&column=8&margin-w=15&margin-h=15&no-bg=false&no-frame=false&theme=algolia)](https://github.com/veerChauhan)
 
 <p align="center">
   <a>
