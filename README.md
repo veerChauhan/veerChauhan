@@ -9,14 +9,6 @@
    <a href="https://github.com/Candida18"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact&theme=radical&show_icons=true)
-
-
-
  ### Languages and Frameworks
  
 <p align="left">
@@ -34,14 +26,9 @@
 <a href="https://twitter.com/b_banzara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ravi Ranjan" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/ravi.chn11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ravi Ranjan" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
+## Mosted Used Language
 
-<!---
-veerChauhan/veerChauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact&theme=radical&show_icons=true)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
