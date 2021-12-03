@@ -13,6 +13,22 @@
 </p>
 
 
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/veerChauhan)
+
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/veerChauhan/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veerChauhan&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/veerChauhan/JayantGoel001/blob/master/PNG/right.png">
+  </a>
+</p>
+
+#
+
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/>
+
+
  ## ⚡ Recent GitHub Activity
   <br/>
    <a href="https://github.com/Candida18"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
