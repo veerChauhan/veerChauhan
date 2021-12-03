@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on swift project
 - 📫 How to reach me : r.ranjanchn@gmail.com
 
-## ME
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/veerChauhan" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
@@ -13,30 +12,25 @@
   <img src="https://img.shields.io/github/stars/veerChauhan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-## Contribution Graph
+## #Contribution Graph
 <br/>
    <a href="https://github.com/veerChauhan"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Contribution&theme=react-dark" /></a>
   <br/>
 
 
 
-## Github Trophies 
+## #Github Trophies 
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=veerChauhan&column=8&margin-w=15&margin-h=15&no-bg=false&no-frame=false&theme=algolia)](https://github.com/veerChauhan)
 
 
+## #Contribution Streak
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veerChauhan&theme=dark&hide_border=false"/>
   </a>
 
-#
-
-<br/>
-
-
   
-
- ### Languages and Frameworks
+ ## #Languages and Frameworks
  
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
@@ -44,10 +38,10 @@
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
    </p>
 
-## Github Stats
+## #Github Stats
 ![Veer's Github Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&theme=radical&show_icons=true)
 
-## Connect with me
+## #Connect with me
 <p align="left">
 <a href="https://www.instagram.com/veer_chauhan_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Ravi Ranjan" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/b_banzara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ravi Ranjan" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -55,7 +49,7 @@
 </p>
 
 
-## Mosted Used Language
+## #Mosted Used Language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact&theme=radical&show_icons=true)
 
