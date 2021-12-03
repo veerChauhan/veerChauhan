@@ -12,8 +12,11 @@
   <img src="https://img.shields.io/github/stars/veerChauhan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
+<p align="center">
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=veerChauhan&column=8&margin-w=15&margin-h=15&no-bg=false&no-frame=false&theme=algolia)](https://github.com/veerChauhan)
+  </p>
+
 
 <p align="center">
   <a>
