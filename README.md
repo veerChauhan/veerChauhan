@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on swift project
 - 📫 How to reach me : r.ranjanchn@gmail.com
 
-![Veer's Github Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&theme=radical&show_icons=true)
+ ## ⚡ Recent GitHub Activity
+  <br/>
+   <a href="https://github.com/Candida18"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
 
 
 
@@ -20,6 +25,9 @@
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
    </p>
 
+## Github Stats
+![Veer's Github Stats](https://github-readme-stats.vercel.app/api?username=veerChauhan&theme=radical&show_icons=true)
+
 ## Connect with me
 <p align="left">
 <a href="https://www.instagram.com/veer_chauhan_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Ravi Ranjan" height="40" width="40" /></a> &nbsp;&nbsp;
@@ -31,11 +39,6 @@
 veerChauhan/veerChauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-  ## ⚡ Recent GitHub Activity
-  <br/>
-   <a href="https://github.com/Candida18"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 
