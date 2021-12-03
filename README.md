@@ -4,6 +4,15 @@
 - 💞️ I’m looking to collaborate on swift project
 - 📫 How to reach me : r.ranjanchn@gmail.com
 
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/veerChauhan" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=veerChauhan&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/veerChauhan?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/veerChauhan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
+
  ## ⚡ Recent GitHub Activity
   <br/>
    <a href="https://github.com/Candida18"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
