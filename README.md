@@ -27,7 +27,7 @@
 
 
   <br/>
-   <a href="https://github.com/veerChauhan"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title="Veer's Contributin Graph"&theme=react-dark" /></a>
+   <a href="https://github.com/veerChauhan"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Veer's Contributin Graph&theme=react-dark" /></a>
   <br/>
 
  ### Languages and Frameworks
