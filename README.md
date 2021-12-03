@@ -5,6 +5,11 @@
 - 📫 How to reach me : r.ranjanchn@gmail.com
 
 
+## Contribution Graph
+<br/>
+   <a href="https://github.com/veerChauhan"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Contribution&theme=react-dark" /></a>
+  <br/>
+
 <p align="center">
   <img src="https://gpvc.arturio.dev/veerChauhan" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=veerChauhan&style=flat&color=brightgreen"> •    -->
@@ -25,9 +30,7 @@
 <br/>
 
 
-  <br/>
-   <a href="https://github.com/veerChauhan"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Contribution&theme=react-dark" /></a>
-  <br/>
+  
 
  ### Languages and Frameworks
  
