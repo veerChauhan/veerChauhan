@@ -30,7 +30,7 @@
   </a>
 
   <a>
-  <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
+  <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
 
   </a>
  ## #Languages and Frameworks
