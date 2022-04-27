@@ -35,6 +35,8 @@
 
   </a>
  ## #Languages and Frameworks
+   <img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coder GIF" width="600" height="500">
+
  
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
