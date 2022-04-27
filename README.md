@@ -29,7 +29,10 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veerChauhan&theme=dark&hide_border=false"/>
   </a>
 
-  
+  <a>
+  <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
+
+  </a>
  ## #Languages and Frameworks
  
 <p align="left">
@@ -47,7 +50,6 @@
 <a href="https://twitter.com/b_banzara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ravi Ranjan" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/ravi.chn11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ravi Ranjan" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
-<img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
 
 
 ## #Mosted Used Language
