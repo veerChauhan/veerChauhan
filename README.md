@@ -31,13 +31,12 @@
   </a>
 
   <a>
-  <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
+  <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="400">
+   <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coder GIF" width="400" height="400">
 
   </a>
+  
  ## #Languages and Frameworks
-   <img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coder GIF" width="600" height="500">
-
- 
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="JavaScript" width="40" height="40" /></code>&nbsp;
