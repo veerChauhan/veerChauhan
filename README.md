@@ -1,3 +1,4 @@
+<img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
 
 - 👋 Hi, I’m @veerChauhan 
 - 👀 I’m interested in programming mainly on iOS application development 
@@ -12,10 +13,6 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/veerChauhan?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/veerChauhan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-<img align="left" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" alt="Coder GIF" width="600" height="500">
-
-
-<img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
 ## #Contribution Graph
 <br/>
    <a href="https://github.com/veerChauhan"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Contribution&theme=react-dark" /></a>
