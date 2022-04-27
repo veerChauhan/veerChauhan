@@ -25,17 +25,15 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=veerChauhan&column=8&margin-w=15&margin-h=15&no-bg=false&no-frame=false&theme=algolia)](https://github.com/veerChauhan)
 
 
-## #Contribution Streak
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veerChauhan&theme=dark&hide_border=false"/>
-  </a>
-
   <a>
   <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="400">
    <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coder GIF" width="400" height="400">
 
   </a>
-  
+## #Contribution Streak
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veerChauhan&theme=dark&hide_border=false"/>
+  </a>  
  ## #Languages and Frameworks
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/swift/swift_48x48.png" alt="swift" width="40" height="40"/></code>&nbsp;
