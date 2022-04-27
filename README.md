@@ -18,9 +18,7 @@
 ## #Contribution Graph
 <br/>
    <a href="https://github.com/veerChauhan"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Contribution&theme=react-dark" /></a>
-   <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
-
-  <br/>
+ <br/>
 
 
 
