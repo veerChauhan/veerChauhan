@@ -1,8 +1,9 @@
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - 👋 Hi, I’m @veerChauhan
 - 👀 I’m interested in programming mainly on iOS application development
 - 🌱 I’m currently learning swift, node and React.
+- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 - 💞️ I’m looking to collaborate on swift project
 - 📫 How to reach me : r.ranjanchn@gmail.com
 
