@@ -56,10 +56,7 @@
 <a href="https://www.facebook.com/ravi.chn11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ravi Ranjan" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-
-## #Mosted Used Language
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veerChauhan&layout=compact&theme=radical&show_icons=true)
+<br>
 
 ### Show ❤️ here [repositories](https://github.com/veerChauhan?tab=repositories)!
 
