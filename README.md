@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/stars/veerChauhan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="900" height="500">
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600" height="500">
 ## #Contribution Graph
 <br/>
    <a href="https://github.com/veerChauhan"><img alt="Veer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=veerChauhan&custom_title=Contribution&theme=react-dark" /></a>
